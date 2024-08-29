@@ -1,0 +1,14 @@
+C:\Users\HAAIR\Documents\I_24-25\C#\ex2\bin\Debug\net8.0\ex2.exe
+C:\Users\HAAIR\Documents\I_24-25\C#\ex2\bin\Debug\net8.0\ex2.deps.json
+C:\Users\HAAIR\Documents\I_24-25\C#\ex2\bin\Debug\net8.0\ex2.runtimeconfig.json
+C:\Users\HAAIR\Documents\I_24-25\C#\ex2\bin\Debug\net8.0\ex2.dll
+C:\Users\HAAIR\Documents\I_24-25\C#\ex2\bin\Debug\net8.0\ex2.pdb
+C:\Users\HAAIR\Documents\I_24-25\C#\ex2\obj\Debug\net8.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAAIR\Documents\I_24-25\C#\ex2\obj\Debug\net8.0\ex2.AssemblyInfoInputs.cache
+C:\Users\HAAIR\Documents\I_24-25\C#\ex2\obj\Debug\net8.0\ex2.AssemblyInfo.cs
+C:\Users\HAAIR\Documents\I_24-25\C#\ex2\obj\Debug\net8.0\ex2.csproj.CoreCompileInputs.cache
+C:\Users\HAAIR\Documents\I_24-25\C#\ex2\obj\Debug\net8.0\ex2.dll
+C:\Users\HAAIR\Documents\I_24-25\C#\ex2\obj\Debug\net8.0\refint\ex2.dll
+C:\Users\HAAIR\Documents\I_24-25\C#\ex2\obj\Debug\net8.0\ex2.pdb
+C:\Users\HAAIR\Documents\I_24-25\C#\ex2\obj\Debug\net8.0\ex2.genruntimeconfig.cache
+C:\Users\HAAIR\Documents\I_24-25\C#\ex2\obj\Debug\net8.0\ref\ex2.dll
